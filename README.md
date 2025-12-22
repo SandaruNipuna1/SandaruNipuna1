@@ -19,7 +19,7 @@ I'm a **Data Science student** at SLIIT, passionate about coding, AI, and explor
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sandaru-nipuna-0aa491232/)
-[![X](https://img.shields.io/badge/X-blue?logo=X&style=for-the-badge)](https://x.com/sandaru1177)
+[![X](https://img.shields.io/badge/-blue?logo=X&style=for-the-badge)](https://x.com/sandaru1177)
 
 ---
 
