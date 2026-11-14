@@ -19,11 +19,9 @@ I'm a Data Science undergraduate at SLIIT interested in Machine Learning, Artifi
 ## 🚀 Featured Projects
 
 - [Telecom Customer Churn Prediction](https://github.com/SandaruNipuna1/Churn-Prediction-Project) – Predicting customer churn using Machine Learning.
-- [Heart Disease Prediction](YOUR_HEART_DISEASE_REPOSITORY_URL) – Predicting heart disease using Machine Learning.
-- [Smart Greenhouse Automation](YOUR_GREENHOUSE_REPOSITORY_URL) – Automated greenhouse monitoring and control using IoT.
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/sandaru-nipuna-0aa491232)
+- [LinkedIn](https://www.linkedin.com/in/sandaru-nipuna-0aa491232)
 - [GitHub](https://github.com/SandaruNipuna1)
 - Email: sandaru1177@gmail.com
