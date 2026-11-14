@@ -24,6 +24,8 @@ I'm a Data Science undergraduate at SLIIT interested in Machine Learning, Artifi
 
 - [Clinic Appointment Management App](https://github.com/SandaruNipuna1/clinic-appointment-management-app) – Mobile application and REST API for managing patients, doctors, appointments and medical reports using React Native, Node.js, Express.js and MongoDB.
 
+- [Item Manager Web Application](https://github.com/SandaruNipuna1/IT24101675) – Full-stack CRUD application built with React, Node.js, Express.js and MongoDB.
+
 - Retail Customer Retention & CLV Prediction – Customer retention analysis and Customer Lifetime Value prediction.
 
 ## 🤝 Connect with Me
