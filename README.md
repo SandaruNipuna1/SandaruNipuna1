@@ -28,7 +28,7 @@ I'm a Data Science undergraduate at SLIIT interested in Machine Learning, Artifi
 
 - Retail Customer Retention & CLV Prediction – Customer retention analysis and Customer Lifetime Value prediction.
 
-- - [User Manager – MERN Stack](https://github.com/SandaruNipuna1/mernProject) – Full-stack user management application featuring CRUD operations using React, Node.js, Express.js and MongoDB.
+- [User Manager – MERN Stack](https://github.com/SandaruNipuna1/mernProject) – Full-stack user management application featuring CRUD operations using React, Node.js, Express.js and MongoDB.
 
 ## 🤝 Connect with Me
 
