@@ -25,6 +25,6 @@ I'm a Data Science undergraduate at SLIIT interested in Machine Learning, Artifi
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
+- [LinkedIn](www.linkedin.com/in/sandaru-nipuna-0aa491232)
 - [GitHub](https://github.com/SandaruNipuna1)
 - Email: sandaru1177@gmail.com
