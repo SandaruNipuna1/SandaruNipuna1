@@ -22,6 +22,8 @@ I'm a Data Science undergraduate at SLIIT interested in Machine Learning, Artifi
 
 - [SLIIT Data Warehouse Labs](https://github.com/SandaruNipuna1/SLIIT-Data-Warehouse-Labs) – Retail ETL pipeline and Data Warehouse implementation using SQL Server Integration Services (SSIS).
 
+- [Olist E-Commerce Data Warehouse & BI](https://github.com/SandaruNipuna1/Olist-Ecommerce-Data-Warehouse) – Data Warehouse implementation, ETL processing, dimensional modelling and interactive business intelligence dashboards using SQL Server, Python and Power BI.
+
 - [Clinic Appointment Management App](https://github.com/SandaruNipuna1/clinic-appointment-management-app) – Mobile application and REST API for managing patients, doctors, appointments and medical reports using React Native, Node.js, Express.js and MongoDB.
 
 - [Item Manager Web Application](https://github.com/SandaruNipuna1/IT24101675) – Full-stack CRUD application built with React, Node.js, Express.js and MongoDB.
