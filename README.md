@@ -1,32 +1,27 @@
-# Hi there, I'm Sandaru 👋
+Hi, I'm Sandaru Nipuna 👋
+Data Science Undergraduate | Aspiring ML Engineer
 
-I'm a **Data Science student** at SLIIT, passionate about coding, AI, and exploring new technologies.
+I'm a Data Science undergraduate at SLIIT interested in Machine Learning, Artificial Intelligence, and turning data into meaningful insights.
 
----
+🎓 About Me
+- BSc (Hons) in Information Technology – Data Science
+- Interested in Machine Learning and AI.
+- Building practical Data Science projects.
+- Currently developing my Python and ML skills.
 
-## 🛠️ Skills & Tools
-- **Programming Languages:** Python, Java, SQL
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Spring Boot
-- **Tools:** Git, GitHub, Docker, VS Code
-- **Databases:** MySQL, H2
+💻 Technical Skills
+- Programming: Python, Java, SQL
+- Data Science: Pandas, NumPy, Matplotlib, Scikit-learn
+- Machine Learning: Logistic Regression, Random Forest, SVM
+- Databases: MySQL, SQL Server
+- Tools: Git, GitHub, Jupyter Notebook
 
----
+🚀 Featured Projects
+- Telecom Customer Churn Prediction
+- Retail Customer Retention & CLV Prediction
+- Heart Disease Prediction
+- Smart Greenhouse Automation
 
-## 📈 GitHub Stats
-![Sandaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandaruNipuna&show_icons=true&theme=radical)
+🤝 Connect with Me
 
----
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sandaru-nipuna-0aa491232/)
-[![X](https://img.shields.io/badge/-blue?logo=X&style=for-the-badge)](https://x.com/sandaru1177)
-
----
-
-## 📫 Contact Me
-Feel free to reach out: sandaru1177@gmail.com
-
----
-
-### ⚡ Fun Fact
-I love **clean coding, exploring hardware, and AI research**. Currently improving my **English speaking skills** and learning **more about Python ML projects**.
+LinkedIn · GitHub · Email
