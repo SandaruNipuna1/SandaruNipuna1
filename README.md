@@ -19,7 +19,12 @@ I'm a Data Science undergraduate at SLIIT interested in Machine Learning, Artifi
 ## 🚀 Featured Projects
 
 - [Telecom Customer Churn Prediction](https://github.com/SandaruNipuna1/Churn-Prediction-Project) – Customer churn prediction using Machine Learning.
+
 - [SLIIT Data Warehouse Labs](https://github.com/SandaruNipuna1/SLIIT-Data-Warehouse-Labs) – Retail ETL pipeline and Data Warehouse implementation using SQL Server Integration Services (SSIS).
+
+- Clinic Appointment Management App – Mobile application and REST API for managing patients, doctors, appointments and medical reports using React Native, Node.js, Express.js and MongoDB.
+
+- Retail Customer Retention & CLV Prediction – Customer retention analysis and Customer Lifetime Value prediction.
 
 ## 🤝 Connect with Me
 
